@@ -30,3 +30,5 @@ Transjakarta, sebagai sistem transportasi bus rapid transit (BRT) terbesar di As
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/e185d39c-ff63-427b-9592-bd0aae10a1af" />
 **Kontribusi** : Section yang menyediakan wadah bagi pengguna memberikan rekomendasi dan suggestion bagi pengembang terkait titik-titik hutan kota yang perlu dianalisis keterjangkauannya.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/291b27de-6a15-4dc0-a1f6-f43ed1edbef7" />
+
+**Tautan Web** : https://nadialiyaa.github.io/pgweb-responsi/

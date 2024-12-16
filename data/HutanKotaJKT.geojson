@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "HutanKotaJKT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0.0, "Nama": "Hutan Kota Srengseng", "Y": 106.764417, "X": -6.210353 }, "geometry": { "type": "Point", "coordinates": [ 106.764416852015003, -6.21035318594131 ] } },
+{ "type": "Feature", "properties": { "ID": 1.0, "Nama": "Hutan Kota Kemayoran", "Y": 106.846762, "X": -6.131787 }, "geometry": { "type": "Point", "coordinates": [ 106.846762271157004, -6.13178664742522 ] } },
+{ "type": "Feature", "properties": { "ID": 2.0, "Nama": "Hutan Kota Buperta Cibubur", "Y": 106.900763, "X": -6.369058 }, "geometry": { "type": "Point", "coordinates": [ 106.900762691039006, -6.36905755203443 ] } },
+{ "type": "Feature", "properties": { "ID": 3.0, "Nama": "Hutan Mangrove PIK", "Y": 106.760891, "X": -6.121973 }, "geometry": { "type": "Point", "coordinates": [ 106.760890521323006, -6.1219732173576 ] } },
+{ "type": "Feature", "properties": { "ID": 4.0, "Nama": "Hutan Kota GBK", "Y": 106.807803, "X": -6.221435 }, "geometry": { "type": "Point", "coordinates": [ 106.807802513482997, -6.22143499167867 ] } },
+{ "type": "Feature", "properties": { "ID": 5.0, "Nama": "Tebet Eco Park", "Y": 106.852903, "X": -6.237024 }, "geometry": { "type": "Point", "coordinates": [ 106.852903342321994, -6.23702360747423 ] } },
+{ "type": "Feature", "properties": { "ID": 6.0, "Nama": "Hutan Kota Pesanggrahan", "Y": 106.778794, "X": -6.31502 }, "geometry": { "type": "Point", "coordinates": [ 106.778794228828005, -6.31501985719274 ] } },
+{ "type": "Feature", "properties": { "ID": 7.0, "Nama": "Hutan Kota Cijantung", "Y": 106.859894, "X": -6.313292 }, "geometry": { "type": "Point", "coordinates": [ 106.859894469306994, -6.3132921202794 ] } },
+{ "type": "Feature", "properties": { "ID": 8.0, "Nama": "Hutan Kota Munjul", "Y": 106.899429, "X": -6.351461 }, "geometry": { "type": "Point", "coordinates": [ 106.899429288354995, -6.35146110508713 ] } }
+]
+}

@@ -24,10 +24,13 @@ Transjakarta, sebagai sistem transportasi bus rapid transit (BRT) terbesar di As
 ### Fitur Unggulan Web RuteHijau
 **Landing Page** : Halaman awal yang menyajikan kalimat sapaan dan ilustrasi bergerak dengan menggunakan CSS keyframe.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/028346f4-7cd1-4b02-86a5-ecfe8d9c107f" />
+
 **Peta** : Section yang menampilkan data titik-titik halte busway dan titik hutan kota dengan poligon keterjangkauan radius 500 meter dan 1000 meter.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/54c74f6e-a829-4ccb-802d-1b70a0a36c0f" />
+
 **Analysis** : Section yang memvisualisasikan data dengan diagram batang dan tabel, sehingga mempermudah interpretasi data.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/e185d39c-ff63-427b-9592-bd0aae10a1af" />
+
 **Kontribusi** : Section yang menyediakan wadah bagi pengguna memberikan rekomendasi dan suggestion bagi pengembang terkait titik-titik hutan kota yang perlu dianalisis keterjangkauannya.
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/291b27de-6a15-4dc0-a1f6-f43ed1edbef7" />
 
